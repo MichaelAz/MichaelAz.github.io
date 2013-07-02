@@ -1,6 +1,9 @@
+Anarchist Education or How to prevent school from ruinning you
+==============================================================
+
 I decided to learn programming when I was 14.
 I learned a bit of programming at an afterschool course for kids and I felt I had a knack for it. 
-I opened a comouter, opened Google and dived in.
+I opened a computer, opened Google and dived in.
 I didn't look back since.
 
 Let me tell you, it was hard. I searched through tutorials, did some excercises but mainly I didn't know what to do.
@@ -27,7 +30,7 @@ time and a lot of dedication to trudge through the hard work of teaching yoursel
 
 **I want to make that easier.**
 
-I believe any young man or women can liberate themselves from the opressive shcakels of cllasical education and 
+I believe any young man or women can liberate themselves from the opressive shcakels of clasical education and 
 teach themselves what they really want to know. You can't force knowledge down their throat without breaking them first 
 which is exactly what traditional education does.
 
